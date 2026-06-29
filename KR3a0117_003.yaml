@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3a0117/krp/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 松陽鈔存跋先王父之宰靈夀也靈夀别名松陽又為衛水所經故當時與諸生講學之書名松陽講義而鈔存舊名衛濱曰鈔亦名松陽鈔存蓋靈夀簿書之暇所定故咸冠以松陽志其地也鈔存取諸問學録日記為多殆輯其粹語以示後學實無可增損正誼堂刻先王父遺書四種讀禮志疑讀朱隨筆二書全刻至鈔存及問學録均有刪節行世既久幾失其真憲業師惕齊楊姑夫邃精性理于先王父諸書最所熟習謂鈔存一册不宜刪節因全書艱于剞劂同門先請鎸是書遂相協力三月告成然後先王父間先聖闢異學之㫖朗然如日中天即此七十五條大㫖已具見矣嗚呼手澤猶存淵源莫續詩曰無念爾祖聿修厥德憲于此自勉還自愧焉孫男申憲百拜謹跋
+  hash: sha256:9bee8c78c218cf4619417458ba2c186d9e0a05046190dffd9781ff2c0e14f453
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0117_WYG_003-1a, image: WYG0725/WYG0725-0659c.png}
+metadata:
+  title: 松陽鈔存
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:02:08.622586'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR3a0117/KR3a0117_003.txt
+hash: sha256:d7715b927139df79dbbb9fd5469d4426e45b08d8367a4ef03e208a8fc33b0d7b
